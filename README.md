@@ -1,0 +1,2 @@
+# Wearable-IoT-Based-Fall-Detection-Leveraging-Multisensor-Data-and-Deep-Learning-Based-Classification
+An artificial neural network (ANN) is trained using statistical, time-series, and frequency-domain features, enabling it to effectively differentiate between fall and non-fall events even under varying movement conditions. Experimental evaluations show that the system achieves competitive accuracy of 96% with relatively small amounts of data
